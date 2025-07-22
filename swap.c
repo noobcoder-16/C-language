@@ -11,8 +11,6 @@ void swap(int *x, int *y)
 int main()
 {
     int x, y;
-    
-
 
     x = 7;
     y = 9;
@@ -20,6 +18,6 @@ int main()
     printf("the value of xis %d and yis %d\n ", x, y);
 
     swap(&x, &y);
-     printf("the value of xis %d and yis %d\n ", x, y);
+    printf("the value of xis %d and yis %d\n ", x, y);
     return 0;
 }
