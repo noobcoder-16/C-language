@@ -13,7 +13,7 @@ float average(int *a, int *b);
 float average(int *a, int *b)
 {
 
-    return (*a + *b) / 2.00;
+    return (*a + *b) / 2.00; 
 }
 
 int main()
@@ -26,3 +26,6 @@ int main()
 
     return 0;
 }
+
+
+
