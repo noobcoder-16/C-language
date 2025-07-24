@@ -16,7 +16,7 @@ int main()
 
     change_to_ten_times(x);
 
-    printf(" the value of x is now 10 times bigger than previous %d\n", x);
-
+    printf(" the value of x is now 10 times bigger than previous %d\n", x); // here the value will be the same //
+    
     return 0;
 }
