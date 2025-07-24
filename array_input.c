@@ -15,6 +15,12 @@ int main()
     // scanf("%d", &marks[4]);
     // scanf("%d", &marks[5]);
 
+
+
+// if you don't want to use loop you can just use the scanf method ;
+
+
+
     for (i = 0; i < 6; i++)
     {
         scanf("%d", &marks[i]);
