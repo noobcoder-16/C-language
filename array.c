@@ -5,7 +5,7 @@ int main()
     int marks[90];
 
     marks[0] = 89;
-    marks[1] = 78;
+    marks[1] = 79;
     marks[2] = 69;
 
     printf("the marks 0 is %d\n", marks[0]);
